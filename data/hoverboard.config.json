@@ -3,7 +3,7 @@
     "home": {
       "headerSettings": {
         "backgroundColor": "#607D8B",
-        "backgroundImage": "/images/backgrounds/home.jpg",
+        "backgroundImage": "/images/backgrounds/devfestbg.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
