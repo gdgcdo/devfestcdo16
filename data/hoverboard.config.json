@@ -7,7 +7,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG Devfest CDO 2016",
+          "title": "GDG DevFest Ukraine 2016",
           "youtubeId": "TdpbgRgz6eE",
           "text": "Watch higlights"
         },
@@ -15,7 +15,7 @@
         "minHeight": "360px"
       }
     },
-    "register": {
+    "blog": {
       "headerSettings": {
         "backgroundColor": "#03a9f4",
         "fontColor": "#fff",
@@ -73,6 +73,10 @@
       "permalink": "/"
     },
     {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
       "route": "schedule",
       "permalink": "/schedule/"
     },
@@ -83,12 +87,7 @@
     {
       "route": "team",
       "permalink": "/team/"
-    },
-    {
-      "route": "register",
-      "permalink": "www.google.com"
     }
-
   ],
   "url": "https://devfest.gdg.org.ua/",
   "mailchimp": {

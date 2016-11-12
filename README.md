@@ -133,8 +133,7 @@ pull request, so we can include you in this list.
 ### Roadmap :rocket:
 :x: Admin panel  
 :x: Firebase Integration   
-:x: My 
-schedule  
+:x: My schedule  
 :x: Push notification  
 :x: ES2015  
 :x: Accessibility  
