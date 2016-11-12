@@ -15,13 +15,6 @@
         "minHeight": "360px"
       }
     },
-    "register": {
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
