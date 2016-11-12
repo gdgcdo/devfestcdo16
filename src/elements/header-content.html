@@ -144,15 +144,15 @@
                   <h3 class="dates">{{localize('dates')}}</h3>
                   <h2 class="motto">{{localize('motto')}}</h2>
                   <div class="action-buttons">
-                    <a href="https://goo.gl/photos/H8s3CtPexCzkLqSt9" on-tap="_trackEventPhotos" target="_blank" rel="noopener noreferrer">
-                      <paper-button>
-                        <iron-icon icon="photo-album"></iron-icon>
-                        <span>[[localize('view-photos')]]</span>
-                      </paper-button>
-                    </a>
+
                 <paper-button class="primary-white" on-tap="_openVideo">
                   <iron-icon icon="movie-filter"></iron-icon>
                   <span>[[localize('view-highlights-video')]]</span>
+                </paper-button>
+
+                <paper-button class="primary-white" onClick="window.open('http://www.google.com')">
+                  <iron-icon icon="add-to-photos"></iron-icon>
+                  <span>[[localize('register-text')]]</span>
                 </paper-button>
               </div>
             </div>
