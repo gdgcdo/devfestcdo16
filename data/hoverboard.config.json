@@ -8,7 +8,7 @@
         "tabBarColor": "#fff",
         "video": {
           "title": "GDG Devfest CDO 2016",
-          "youtubeId": "TdpbgRgz6eE",
+          "youtubeId": "E9zPp-D-d6o",
           "text": "Watch higlights"
         },
         "hideLogo": true,
@@ -291,5 +291,5 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv"
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=E9zPp-D-d6o"
 }
