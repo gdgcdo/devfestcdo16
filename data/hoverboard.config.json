@@ -274,14 +274,13 @@
       "longitude": 23.972805,
       "zoom": 15
     },
+
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 8.485759,
+      "longitude": 124.656418
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/location-image.jpg"
     ]
   },
   "videosSessionsUrl": "https://www.youtube.com/watch?v=E9zPp-D-d6o"
