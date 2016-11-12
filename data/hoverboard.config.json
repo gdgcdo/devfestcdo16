@@ -270,14 +270,14 @@
     "apiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 8.485759,
+      "longitude": 124.656418,
       "zoom": 15
     },
 
     "mapCenter": {
-      "latitude": 8.485759,
-      "longitude": 124.656418
+      "latitude": 8.483640,
+      "longitude": 124.662976
     },
     "images": [
       "/images/location-image.jpg"
