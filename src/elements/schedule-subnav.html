@@ -90,10 +90,10 @@
         allow-outside-scroll
         opened="{{_filtersOpened}}"
       >
-        <paper-button class="dropdown-trigger">
-          [[localize('filter')]]
-          <iron-icon class="filter-icon" icon="filter-list"></iron-icon>
-        </paper-button>
+        <!--<paper-button class="dropdown-trigger">-->
+          <!--[[localize('filter')]]-->
+          <!--<iron-icon class="filter-icon" icon="filter-list"></iron-icon>-->
+        <!--</paper-button>-->
         <paper-menu
           id="filters"
           class="filters-content dropdown-content"
@@ -115,19 +115,19 @@
       </paper-menu-button>
     </nav>
 
-    <div class="info-banner" layout horizontal justified>
-      <div class="legend" layout horizontal wrap>
-        <template is="dom-repeat" items="[[schedule.tags]]" as="tag">
-          <div class="legend-item">
-            <i class="point"
-               style$="background: [[_getCustomStyleValue(tag)]]"></i>[[tag]]
-          </div>
-        </template>
-      </div>
+    <!--<div class="info-banner" layout horizontal justified>-->
+      <!--<div class="legend" layout horizontal wrap>-->
+        <!--<template is="dom-repeat" items="[[schedule.tags]]" as="tag">-->
+          <!--<div class="legend-item">-->
+            <!--<i class="point"-->
+               <!--style$="background: [[_getCustomStyleValue(tag)]]"></i>[[tag]]-->
+          <!--</div>-->
+        <!--</template>-->
+      <!--</div>-->
       <div class="filters" hidden$="[[!_filtersLabel]]">
         [[localize('filtered-by')]] [[_filtersLabel]]
       </div>
-    </div>
+    <!--</div>-->
 
   </template>
 
