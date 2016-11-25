@@ -199,15 +199,15 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 700,
+      "counter": 384,
       "caption": "attendees"
     },
     {
-      "counter": 30,
+      "counter": 9,
       "caption": "sessions"
     },
     {
-      "counter": 6,
+      "counter": 12,
       "caption": "workshops"
     },
     {
