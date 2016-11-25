@@ -110,15 +110,6 @@
         "sessions": [
           [
             116
-          ]
-        ]
-      },
-      {
-        "startTime": "16:00",
-        "endTime": "16:30",
-        "sessions": [
-          [
-            116
           ],
           [
             117
@@ -129,12 +120,18 @@
         ]
       },
       {
-        "startTime": "16:30",
-        "endTime": "17:00",
+        "startTime": "16:00",
+        "endTime": "16:30",
         "sessions": [
           [
             119
-          ],
+          ]
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:00",
+        "sessions": [
           [
             120
           ]
