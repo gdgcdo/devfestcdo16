@@ -9,36 +9,29 @@
       }
     ]
   },
-
   {
-    "title": "main partners",
+    "title": "main-partner",
     "logos": [
       {
-        "name": "USAID",
-        "url": "#",
-        "logoUrl": "/images/logos/corevalue.svg"
+        "name": "USDAID",
+        "logoUrl": "/images/sponsors/usaaid.jpg"
       },
       {
         "name": "RTI",
-        "url": "http://www.globallogic.com/",
-        "logoUrl": "/images/logos/global-logic.svg"
+        "logoUrl": "/images/sponsors/rti.png"
+      }
+    ]
+  },
+  {
+    "title": "venue-sponsor",
+    "logos": [
+      {
+        "name": "USTP",
+        "logoUrl": "/images/sponsors/ustp.png"
       },
       {
-        "name": "Wolters Kluwer",
-        "url": "http://wolterskluwer.com/",
-        "logoUrl": "/images/logos/wolters kluwer.svg"
-      },
-      {
-        "name": "N-iX",
-        "url": "http://n-ix.com/",
-        "logoUrl": "/images/logos/n_ix.svg",
-        "width": 85
-      },
-      {
-        "name": "Mirantis",
-        "url": "https://www.mirantis.com/",
-        "logoUrl": "/images/logos/mirantis.svg",
-        "width": 90
+        "name": "SITE",
+        "logoUrl": "/images/sponsors/site.png"
       }
     ]
   },
@@ -46,86 +39,25 @@
     "title": "gold-sponsor",
     "logos": [
       {
-        "name": "Ciklum",
-        "url": "https://www.ciklum.com/",
-        "logoUrl": "/images/logos/ciklum.svg"
+        "name": "cleversoft",
+        "logoUrl": "/images/sponsors/cleversoft.png"
       },
       {
-        "name": "Sigma",
-        "url": "http://sigma.software/",
-        "logoUrl": "/images/logos/sigma.svg"
-      },
-      {
-        "name": "Ruckus",
-        "url": "https://www.ruckuswireless.com/",
-        "logoUrl": "/images/logos/ruckus.svg"
+        "name": "syntactics",
+        "logoUrl": "/images/sponsors/syntactics.png"
       }
     ]
   },
   {
-    "title": "gift-sponsor",
+    "title": "bronze-sponsor",
     "logos": [
       {
-        "name": "JetBrains",
-        "url": "https://www.jetbrains.com/",
-        "logoUrl": "/images/logos/jetbrains.svg",
-        "width": 55
+        "name": "high output",
+        "logoUrl": "/images/sponsors/highoutput.jpg"
       },
       {
-        "name": "Shulga Massage",
-        "url": "http://shulga-massage.com/",
-        "logoUrl": "/images/logos/massage.png"
-      }
-    ]
-  },
-  {
-    "title": "hosting-partner",
-    "logos": [
-      {
-        "name": "ibis",
-        "url": "http://www.ibisstyles.com/",
-        "logoUrl": "/images/logos/ibis.png"
-      }
-    ]
-  },
-  {
-    "title": "general-partner",
-    "logos": [
-      {
-        "name": "IT Cluster",
-        "url": "http://itcluster.lviv.ua/",
-        "logoUrl": "/images/logos/it-cluster.svg"
-      }
-    ]
-  },
-  {
-    "title": "information-partner",
-    "logosClass": "info",
-    "logos": [
-      {
-        "name": "Android Weekly",
-        "url": "http://androidweekly.net/",
-        "logoUrl": "/images/logos/android_weekly.png"
-      },
-      {
-        "name": "Droidcon Krakow",
-        "url": "http://droidcon.pl/",
-        "logoUrl": "/images/logos/droidcon.png"
-      },
-      {
-        "name": "CyberBionic",
-        "url": "http://edu.cbsystematics.com/en/",
-        "logoUrl": "/images/logos/cbs.svg"
-      },
-      {
-        "name": "ITVDN",
-        "url": "http://itvdn.com/en",
-        "logoUrl": "/images/logos/itvdn.svg"
-      },
-      {
-        "name": "ITEM",
-        "url": "http://item.com.ua/",
-        "logoUrl": "/images/logos/item.svg"
+        "name": "innovze",
+        "logoUrl": "/images/sponsors/innovuze.png"
       }
     ]
   }
