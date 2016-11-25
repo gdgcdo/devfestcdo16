@@ -5,13 +5,7 @@
         "description": "Create interactive 3D worlds in your browser - no plugins needed, just JavaScript.\n\nWe will explore what it takes to get 3D graphics into your browser and how to load and interact with 3D models and get our hands on Three.js, a library to make this a lot easier than vanilla WebGL.\n\nYou will need to have a solid understanding of JavaScript (especially Arrays, TypedArrays, objects, requestAnimationFrame) and a browser & laptop that is able to display WebGL, which you can check at http://get.webgl.org.",
         "speakers": [
             41
-        ],
-        "language": "English",
-        "complexity": "Beginner",
-        "tags": [
-            "Web"
-        ],
-        "presentation":"https://speakerdeck.com/gdglviv/martin-splitt-practical-webgl-with-three-dot-js"
+        ]
     },
     "1441": {
         "id": 1441,
@@ -19,26 +13,14 @@
         "description": "In this codelab, you'll learn how to make a progressive web app using Firebase and Polymer Web Components. You'll connect pre-made view components to Firebase data components to build an app that features user authentication, a database backend, offline data availability and the ability to be installed to the home screen of an Android device. \n\nThat may sound like a lot to consider, but worry not: Polymer Web Components make it easy to unlock the power of the web platform. Let's get coding!",
         "speakers": [
             41
-        ],
-        "language": "English",
-        "complexity": "Beginner",
-        "tags": [
-            "Web",
-            "Workshop"
         ]
     },
     "1442": {
         "id": 1442,
         "title": "Build a Progressive Web App with Firebase and Polymer (part 2)",
-        "description": "In this codelab, you'll learn how to make a progressive web app using Firebase and Polymer Web Components. You'll connect pre-made view components to Firebase data components to build an app that features user authentication, a database backend, offline data availability and the ability to be installed to the home screen of an Android device. \n\nThat may sound like a lot to consider, but worry not: Polymer Web Components make it easy to unlock the power of the web platform. Let's get coding!",
+        "description": "In this codelab, you'lfl learn how to make a progressive web app using Firebase and Polymer Web Components. You'll connect pre-made view components to Firebase data components to build an app that features user authentication, a database backend, offline data availability and the ability to be installed to the home screen of an Android device. \n\nThat may sound like a lot to consider, but worry not: Polymer Web Components make it easy to unlock the power of the web platform. Let's get coding!",
         "speakers": [
             41
-        ],
-        "language": "English",
-        "complexity": "Beginner",
-        "tags": [
-            "Web",
-            "Workshop"
         ]
     },
     "143": {
@@ -47,13 +29,7 @@
         "description": "Go becomes more and more popular language. It's strongly focused on concurrency and breaks the traditional approach to object-oriented programming. And it's made by Google for the software written by Google. If you want to take a look at Golang as a beginner or a curious person, you're welcome!",
         "speakers": [
             40
-        ],
-        "language": "English",
-        "complexity": "Beginner",
-        "tags": [
-            "Cloud"
-        ],
-        "presentation":"https://speakerdeck.com/gdglviv/michal-rostecki-introduction-to-golang"
+        ]
     },
     "142": {
         "id": 142,
@@ -61,13 +37,7 @@
         "description": "The presentation covers automation of Kubernetes installation with Kargo. It has not so many working parts, but achieving real production HA takes work. We will cover deployment on bare metal and on clouds, such as GCE and AWS.",
         "speakers": [
             39
-        ],
-        "language": "English",
-        "complexity": "Intermediate",
-        "tags": [
-            "Cloud"
-        ],
-        "presentation":"https://speakerdeck.com/gdglviv/matthew-mosesohn-kubernetes-more-than-just-a-toy"
+        ]
     },
     "141": {
         "id": 141,
@@ -75,15 +45,6 @@
         "description": "Our friends from Professor Fortran Videocast decided to record a session at the DevFest Ukraine. Wait for a casual conversation with our speakers about IT. More details comming soon...",
         "speakers": [
             38
-        ],
-        "language": "English",
-        "complexity": "Beginner",
-        "image": "/images/backgrounds/fireside_chat.jpg",
-        "tags": [
-            "General",
-            "Android",
-            "Web",
-            "Cloud"
         ]
     },
     "140": {
@@ -98,15 +59,7 @@
         "description": "It's 2016 and turning your idea from just a concept in your head to a startup is easier than ever, but sometimes that road can get a bit turbulent. Let's talk about making your take off smooth, quick and fun!",
         "speakers": [
             42
-        ],
-        "language": "English",
-        "complexity": "Intermediate",
-        "tags": [
-            "General",
-            "Startups",
-            "Entrepreneurship"
-        ],
-        "presentation":"https://speakerdeck.com/gdglviv/peter-tuszynski-keynote-how-to-take-off-in-2016"
+        ]
     },
     "138": {
         "id": 138,
@@ -122,10 +75,14 @@
     },
     "136": {
         "id": 136,
-        "title": "GDG DevFest Ukraine 2016 Opening",
-        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-        "language": "English",
-        "image": "/images/backgrounds/opening.jpg"
+        "title": "Keynote",
+        "description": "Official start of the conference. Greeting from the organizers, sponsors and partners.",
+        "image": "/images/backgrounds/opening.jpg",
+        "speakers": [
+            {
+                "name": "Josan Dometita Astrid Chug"
+            }
+        ]
     },
     "135": {
         "id": 135,
@@ -147,8 +104,7 @@
     },
     "132": {
         "id": 132,
-        "title": "Registration & morning Coffee",
-        "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+        "title": "Registration & Photo booth session",
         "image": "/images/backgrounds/registration.jpg"
     },
     "131": {
@@ -200,8 +156,6 @@
         "speakers": [
             26
         ],
-        "language": "English",
-        "complexity": "Intermediate",
         "tags": [
             "Android"
         ],
@@ -214,8 +168,6 @@
         "speakers": [
             25
         ],
-        "language": "English",
-        "complexity": "Beginner",
         "tags": [
             "Android"
         ],
@@ -228,8 +180,6 @@
         "speakers": [
             24
         ],
-        "language": "Ukrainian",
-        "complexity": "Intermediate",
         "tags": [
             "Android"
         ],
@@ -242,11 +192,7 @@
         "speakers": [
             23
         ],
-        "language": "English",
-        "complexity": "Intermediate",
-        "tags": [
-            "Android"
-        ],
+
         "presentation":"https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion"
     },
     "125": {
