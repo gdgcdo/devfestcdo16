@@ -199,16 +199,16 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 700,
-      "caption": "attendees"
+      "counter": 384,
+      "caption": "delegates"
     },
     {
-      "counter": 30,
+      "counter": 9,
       "caption": "sessions"
     },
     {
-      "counter": 6,
-      "caption": "workshops"
+      "counter": 12,
+      "caption": "codelabs"
     },
     {
       "counter": 3,
