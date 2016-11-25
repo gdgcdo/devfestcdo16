@@ -9,26 +9,17 @@
       }
     ]
   },
+
   {
-    "title": "diamond-sponsor",
+    "title": "main partners",
     "logos": [
       {
-        "name": "intouch",
-        "url": "http://www.intouchmena.com/",
-        "logoUrl": "/images/logos/intouch.svg"
-      }
-    ]
-  },
-  {
-    "title": "platinum-sponsor",
-    "logos": [
-      {
-        "name": "CoreValue",
-        "url": "http://www.corevalue.com.ua/",
+        "name": "USAID",
+        "url": "#",
         "logoUrl": "/images/logos/corevalue.svg"
       },
       {
-        "name": "GlobalLogic",
+        "name": "RTI",
         "url": "http://www.globallogic.com/",
         "logoUrl": "/images/logos/global-logic.svg"
       },
