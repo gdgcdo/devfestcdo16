@@ -11,7 +11,7 @@
         "endTime": "10:00",
         "sessions": [
           [
-            132
+            101
           ]
         ]
       },
@@ -20,148 +20,129 @@
         "endTime": "10:00",
         "sessions": [
           [
-            136
+            102
           ]
         ]
       },
       {
-        "startTime": "10:15",
+        "startTime": "10:00",
         "endTime": "11:00",
         "sessions": [
           [
-            139
+            103
           ]
         ]
       },
       {
         "startTime": "11:00",
-        "endTime": "11:40",
+        "endTime": "11:30",
         "sessions": [
           [
-            103
-          ],
-          [
-            120
-          ],
-          [
-            1091
+            104
           ]
         ]
       },
       {
-        "startTime": "11:50",
-        "endTime": "12:30",
+        "startTime": "11:30",
         "sessions": [
           [
-            129
-          ],
-          [
-            116
-          ],
-          [
-            1092
+            105
           ]
         ]
       },
       {
-        "startTime": "12:30",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "sessions": [
+          [
+            106
+          ]
+        ]
+      },
+      {
+        "startTime": "13:00",
         "endTime": "14:00",
         "sessions": [
           [
-            133
+            107
+          ],
+          [
+            108
+          ],
+          [
+            109
           ]
         ]
       },
       {
         "startTime": "14:00",
-        "endTime": "14:40",
+        "endTime": "14:30",
         "sessions": [
           [
-            101
-          ],
-          [
-            118
-          ],
-          [
-            1441
-          ]
-        ]
-      },
-      {
-        "startTime": "14:50",
-        "endTime": "15:30",
-        "sessions": [
-          [
-            143
-          ],
-          [
-            126
-          ],
-          [
-            1442
-          ]
-        ]
-      },
-      {
-        "startTime": "15:30",
-        "endTime": "16:00",
-        "sessions": [
-          [
-            134
-          ]
-        ]
-      },
-      {
-        "startTime": "16:00",
-        "endTime": "16:40",
-        "sessions": [
-          [
-            105
-          ],
-          [
-            127
-          ],
-          [
-            1191
-          ]
-        ]
-      },
-      {
-        "startTime": "16:50",
-        "endTime": "17:30",
-        "sessions": [
-          [
-            112
+            110
           ],
           [
             111
           ],
           [
-            1192
+            112
           ]
         ]
       },
       {
-        "startTime": "17:40",
-        "endTime": "18:20",
+        "startTime": "14:30",
+        "endTime": "15:00",
         "sessions": [
           [
-            106
+            113
           ],
           [
-            125
+            114
           ],
           [
-            1193
+            115
           ]
         ]
       },
       {
-        "startTime": "18:30",
-        "endTime": "22:30",
+        "startTime": "15:00",
+        "endTime": "16:00",
         "sessions": [
           [
-            137
+            116
+          ],
+          [
+            117
+          ],
+          [
+            118
+          ]
+        ]
+      },
+      {
+        "startTime": "16:00",
+        "endTime": "16:30",
+        "sessions": [
+          [
+            116
+          ],
+          [
+            117
+          ],
+          [
+            118
+          ]
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:00",
+        "sessions": [
+          [
+            119
+          ],
+          [
+            120
           ]
         ]
       }

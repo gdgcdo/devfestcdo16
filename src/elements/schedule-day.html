@@ -108,7 +108,7 @@
 
       .session-meta li:not(:last-of-type)::after {
         margin-left: 5px;
-        content: "/";
+        content: "";
       }
 
       .speaker-block {
@@ -192,6 +192,7 @@
                         <h2 class="session-title">[[subSession.title]]</h2>
                         <ul class="session-meta">
                           <li hidden$="[[!subSession.language]]">[[subSession.language]]</li>
+                          <li hidden$="[[!subSession.location]]">[[subSession.location]]</li>
                           <li hidden$="[[!subSession.complexity]]">[[subSession.complexity]]</li>
                           <li hidden$="[[!subSession.track.title]]">[[subSession.track.title]]</li>
                         </ul>
@@ -215,7 +216,7 @@
                             <div class="person-detail" flex>
                               <span class="speaker-name">[[speaker.name]]</span>
                               <div class="speaker-title">
-                                [[speaker.company]] / [[speaker.country]]
+                                [[speaker.company]]
                               </div>
                             </div>
                           </div>
