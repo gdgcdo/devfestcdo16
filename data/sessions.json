@@ -43,7 +43,7 @@
       3
     ],
     "tags": [
-      "Cloud"
+      "Startup"
     ]
   },
   "108": {
@@ -51,6 +51,9 @@
     "title": "Build Virtual Reality App (Part 1)",
     "speakers": [
       4
+    ],
+    "tags": [
+      "Vr"
     ]
   },
   "109": {
@@ -69,7 +72,13 @@
   },
   "111": {
     "id": 111,
-    "title": "Build Virtual Reality App (Part 2)"
+    "title": "Build Virtual Reality App (Part 2)",
+    "speakers": [
+      4
+    ],
+    "tags": [
+      "Vr"
+    ]
   },
   "112": {
     "id": 112,
@@ -94,7 +103,7 @@
       7
     ],
     "tags": [
-      "Internet of Things"
+      "Iot"
     ]
   },
   "115": {
